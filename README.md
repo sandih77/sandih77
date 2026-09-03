@@ -89,6 +89,22 @@
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=sandih77&theme=default&hide_border=false&border_radius=8" alt="GitHub Streak" height="175" />
+
+  <br/><br/>
+
+  <!-- GitHub Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/sandih77/sandih77/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 <div align="center">
 <sub>Antananarivo, Madagascar</sub>
 </div>
