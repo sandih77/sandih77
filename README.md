@@ -88,6 +88,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Affinity-222324?style=flat-square&logo=affinitydesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artcraft-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Photocraft-6366F1?style=flat-square" />
 </p>
 
 ---
